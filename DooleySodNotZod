@@ -1,3 +1,9 @@
+//AUTHOR: Spenser Dooley
+//COURSE: CPT 167
+//PURPOSE: Create a program that provides menus to the user for item & discount options, allows for multiple
+//transactions, and provides receipts and a final report when complete.
+//CREATE DATE: 15 July 2020
+
 package edu.cpt167.dooley.participation6;
 
 import java.util.Scanner;
